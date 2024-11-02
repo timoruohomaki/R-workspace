@@ -3,3 +3,5 @@
 Related instructions:
 
 [Microsoft Learn: Sending Event](https://learn.microsoft.com/en-us/rest/api/eventhub/send-event)
+
+[Microsoft Learn: Send Batch of Events](https://learn.microsoft.com/en-us/rest/api/eventhub/send-batch-events)
